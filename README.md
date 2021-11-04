@@ -1,12 +1,22 @@
+<img align="right" height="600px" src="./illustration.png"/>
+
 <h1> Hi there <img src='https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif' height='25px' />, I'm Andryel Blanco! </h1>
 
 - 🔥 Padawan React Developer
 
 - 👨‍💻 All of my projects are available at [andryelblanco.online](https://andryelblanco.online)
 
-- 💬 Ask me about **JavaScript, HTML, CSS
+- 💬 Ask me about **JavaScript, HTML, CSS**
+<div style='display: inline-block'>
+  <h2>You find me here</h2>
+  <a href='https://www.linkedin.com/in/andryel-blanco/'>
+    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
+  </a>
+  <a href='https://www.instagram.com/andryel_blanco/'>
+    <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' />  
+  </a>
+</div>
 
-<br>
 <br>
 <br>
 <h2> 🛠 &nbsp;Tech Stack </h2>
